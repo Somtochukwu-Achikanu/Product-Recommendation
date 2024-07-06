@@ -17,7 +17,7 @@ The dataset used for training and evaluating the recommendation system is availa
 
 ```git clone https://github.com/gbiamgaurav/Product-Recommendation.git```
 
-```cd product-recommendation``
+```cd product-recommendation```
 
 ## Install dependencies:
 
