@@ -13,21 +13,17 @@ This repository contains the implementation of a product recommendation system u
 The dataset used for training and evaluating the recommendation system is available at [Data link](https://www.kaggle.com/c/santander-product-recommendation/overview).
 
 
-Fork the repository:
+## Fork the repository:
 
-bash
-Copy code
-git clone https://github.com/gbiamgaurav/Product-Recommendation.git
-cd product-recommendation
-Install dependencies:
+```git clone https://github.com/gbiamgaurav/Product-Recommendation.git```
 
-bash
-Copy code
-pip install -r requirements.txt
-Download the dataset:
+```cd product-recommendation``
+
+## Install dependencies:
 
 
-Use Jupyter notebooks or run Python scripts to train the recommendation models and evaluate their performance.
+```pip install -r requirements.txt```
+
 
 ## Example Notebooks
 * Collaborative Filtering Example: Demonstrates collaborative filtering for product recommendations.
