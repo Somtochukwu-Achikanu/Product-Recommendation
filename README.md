@@ -15,14 +15,16 @@ The dataset used for training and evaluating the recommendation system is availa
 
 ## Fork the repository:
 
-```git clone https://github.com/gbiamgaurav/Product-Recommendation.git```
-
-```cd product-recommendation```
-
-## Install dependencies:
+```bash 
+git clone https://github.com/gbiamgaurav/Product-Recommendation.git
 
 
-```pip install -r requirements.txt```
+cd product-recommendation
+
+
+pip install -r requirements.txt
+```
+
 
 
 ## Example Notebooks
